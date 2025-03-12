@@ -24,7 +24,7 @@
 
 1. **Clone The Project:**
 ```
-git clone https://github.com/cyze-afresh/Arx-C-Keylogger
+git clone https://github.com/root-cyze/Arx-C-Keylogger
 ```
 2. **Compile the Code**:
    Compile your code with a C compiler. For example:
